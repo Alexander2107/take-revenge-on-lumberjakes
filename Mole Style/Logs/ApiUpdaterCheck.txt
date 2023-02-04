@@ -1,0 +1,170 @@
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:30:28 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1574,6191ms
+moved types parse time: 120ms
+candidates parse time : 1ms
+C# parse time         : 748ms
+candidates check time : 52ms
+console write time    : 9ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:32:22 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 625,9658ms
+moved types parse time: 234ms
+candidates parse time : 3ms
+C# parse time         : 894ms
+candidates check time : 111ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:38:49 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 853,7438ms
+moved types parse time: 125ms
+candidates parse time : 1ms
+C# parse time         : 321ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:40:25 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 434,9845ms
+moved types parse time: 85ms
+candidates parse time : 2ms
+C# parse time         : 309ms
+candidates check time : 41ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:43:36 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 310,7197ms
+moved types parse time: 82ms
+candidates parse time : 1ms
+C# parse time         : 300ms
+candidates check time : 46ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:45:05 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 402,5046ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 325ms
+candidates check time : 153ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:45:57 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 392,8751ms
+moved types parse time: 83ms
+candidates parse time : 1ms
+C# parse time         : 308ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:46:32 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 237,4691ms
+moved types parse time: 99ms
+candidates parse time : 2ms
+C# parse time         : 396ms
+candidates check time : 43ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:47:42 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 334,0911ms
+moved types parse time: 91ms
+candidates parse time : 1ms
+C# parse time         : 320ms
+candidates check time : 44ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:48:25 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 216,9304ms
+moved types parse time: 105ms
+candidates parse time : 3ms
+C# parse time         : 354ms
+candidates check time : 53ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:48:54 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 689,6939ms
+moved types parse time: 92ms
+candidates parse time : 1ms
+C# parse time         : 329ms
+candidates check time : 40ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:55:03 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 742,0262ms
+moved types parse time: 136ms
+candidates parse time : 2ms
+C# parse time         : 595ms
+candidates check time : 56ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:59:39 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 399,8699ms
+moved types parse time: 106ms
+candidates parse time : 1ms
+C# parse time         : 323ms
+candidates check time : 55ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 11:59:51 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 392,5993ms
+moved types parse time: 88ms
+candidates parse time : 1ms
+C# parse time         : 334ms
+candidates check time : 40ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 12:01:10 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 560,8355ms
+moved types parse time: 123ms
+candidates parse time : 5ms
+C# parse time         : 467ms
+candidates check time : 50ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 12:04:17 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 522,1135ms
+moved types parse time: 97ms
+candidates parse time : 2ms
+C# parse time         : 395ms
+candidates check time : 43ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04.02.2023 17:14:57 : Starting E:/Новая папка (3)/2020.3.27f1/Editor/Data/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 888,4205ms
+moved types parse time: 118ms
+candidates parse time : 1ms
+C# parse time         : 838ms
+candidates check time : 126ms
+console write time    : 28ms
+

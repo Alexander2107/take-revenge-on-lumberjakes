@@ -1,0 +1,26 @@
+# Starting compiling UnityEngine.TestRunner.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-858698fba6761ba4f8697e0a050b525b
+# Starting compiling UnityEngine.UI.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-af7d330c2808ccb40b8edc51f37dec6e
+# Starting compiling Unity.InternalAPIEngineBridge.001.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-161ac2fd67def0249bb80720976d1b62
+# Starting compiling Unity.2D.PixelPerfect.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-c7da5b75c1d72fd4c9c9776a28a73915
+# Starting compiling Unity.Timeline.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-5c30139a135c5f1419659aeef38fff14
+# Starting compiling Unity.TextMeshPro.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-e88ff8a5491818c4a82c5c0cb1892e0d
+# Starting compiling Unity.Mathematics.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4742615bdaf109a4699768a5524ce60e
+# Starting compiling Unity.2D.IK.Runtime.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-21702c535eb54134da901dc2b9a70b96
+# Starting compiling Unity.2D.Animation.Triangle.Runtime.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-4f055d2f5bdc9114b970aaed717a5032
+# Starting compiling Unity.2D.Common.Runtime.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-ccc23dae7c129a344a6802800efa1557
+# Starting compiling Unity.2D.Animation.Runtime.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-315a01635cad6d14d85727f189794daf
+# Starting compiling Unity.2D.SpriteShape.Runtime.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-86b89ce1333a5a3489347683fedf3b3e
+# Starting compiling Assembly-CSharp.dll
+E:\Новая папка (3)\2020.3.27f1\Editor\Data\Tools\RoslynScripts\unity_csc.bat /noconfig @Temp/UnityTempFile-d7ab640f976d36949a679d1269ceb05d
