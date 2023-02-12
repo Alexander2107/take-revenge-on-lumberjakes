@@ -1,2 +1,2 @@
-# take-revenge-on-lumberjakes
-GJ2023
+#Take Revenge on the LUMBERJACKS
+the GGJ2023 game yeahh
